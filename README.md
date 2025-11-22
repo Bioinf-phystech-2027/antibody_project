@@ -34,3 +34,4 @@ OAS (https://opig.stats.ox.ac.uk/webapps/oas/)
 7. Получены и проанализированы частотные профили по нуклеотидам **nucleotide_frequency_CDR1_CDR2.ipynb**:
   ![Частоты нуклеотидов CDR1](frequency_nuc_CDR1.png)
   ![Частоты нуклеотидов CDR2](frequency_nuc_CDR2.png)
+8. Разработана библиотека кодонов и проведена валидация.
