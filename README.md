@@ -16,7 +16,7 @@ OAS (https://opig.stats.ox.ac.uk/webapps/oas/)
 - **Источник:** OAS (Observed Antibody Space)
 - **Ген:** IGHV3-21
 - **Область:** HCDR1 и HCDR2 тяжелой цепи
-![Что такое CDR?]("Что такое CDR?.png")
+![Что такое CDR?](what_is_cdr.png)
 - **Отбор:** Paired-end sequencing, no disease
 
 ### Последовательность действий:
