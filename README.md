@@ -11,3 +11,9 @@ OAS (https://opig.stats.ox.ac.uk/webapps/oas/)
 - выборка из Paired последовательностей (human, no disease)
 - V-ген: IGHV3-21
 - подбор олигонуклеотидов для HCDR1 и HCDR2
+
+## Данные
+- **Источник:** OAS (Observed Antibody Space)
+- **Ген:** IGHV3-21
+- **Область:** HCDR1 и HCDR2 тяжелой цепи
+- **Отбор:** Paired-end sequencing, no disease
